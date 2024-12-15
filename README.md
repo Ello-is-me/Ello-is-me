@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Ello-is-me
+- 👋 Hi, I’m @VenzDK
 - 👀 I’m interested in FiveM
 - 🌱 I’m currently learning Being human
-- 💞️ I’m looking to collaborate on FiveM
-- 📫 How to reach me Discord
 - 😄 Pronouns: Washingmachine
 - ⚡ Fun fact: I'm a washingmachine
 
